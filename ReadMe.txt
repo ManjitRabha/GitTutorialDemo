@@ -1,1 +1,1 @@
-This is to practice only. I am new to git.
+This is for practice only. I am new to git.
